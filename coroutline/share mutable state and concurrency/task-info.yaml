@@ -1,0 +1,12 @@
+type: theory
+files:
+- name: src/01_problem.kt
+  visible: true
+- name: src/03_Thread_confinement fine-grained﻿.kt
+  visible: true
+- name: src/04 Thread confinement coarse-grained.kt
+  visible: true
+- name: src/06_Mutual exclusion.kt
+  visible: true
+- name: src/07-Actor.kt
+  visible: true

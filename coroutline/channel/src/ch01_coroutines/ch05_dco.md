@@ -1,0 +1,3 @@
+协程Context和Dispathcers
+协程总是在一种环境中执行，通常通过ConroutineContext类型代表，在标准库中定义
+协程上下文是一组各种元素，主要元素是Job, 之前已经开启，Dispatchers

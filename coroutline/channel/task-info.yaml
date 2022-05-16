@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: src/01_Basic.kt
+  visible: true
+- name: test/Tests.kt
+  visible: false
+- name: src/Log.kt
+  visible: true
+- name: src/03_channel_producers﻿.kt
+  visible: true
